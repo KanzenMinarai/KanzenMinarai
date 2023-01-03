@@ -15,7 +15,7 @@ int langs(void){
     	       "Css 🧑 \n"
 	       "Html 💀 \n"
 	       "Shell Script 🐚 \n"
-    	       "Lua 🌕 \n\n"
+    	       "Lua 🌕 \n"
 	       "Markdown ⬇️ \n"
     	       "I use these tools to do my projects 🧰 \n"
 	       "Linux 🐧 \n"
