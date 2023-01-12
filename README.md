@@ -3,12 +3,11 @@ _hello_@**everyone** $ cat about_me.c
 ```c
 #include <stdio.h>
 
-int greetings(void){
+void greetings(void){
 	printf("Hello! 👋, I'm Kanzen \n");
-	return 0;
 }
 
-int langs(void){
+void langs(void){
 	printf("I create programs using the... \n"
 	       "C programming language 🇨 \n"
     	       "Nix ❄️ \n"
@@ -22,7 +21,6 @@ int langs(void){
 	       "Git 🌳 \n"
 	       "Vscode ✍️ \n"
     	       "Be free and open-source to see my projects ❤️ \n");
-	return 0;
 }
 
 int main(void){
