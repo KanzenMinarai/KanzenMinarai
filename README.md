@@ -8,7 +8,7 @@ void greetings(void){
 }
 
 void langs(void){
-	printf("I create programs using the... \n"
+	printf("I create projects using the tecnologies... \n"
 	       "C programming language 🇨 \n"
     	       "Nix ❄️ \n"
     	       "Css 🧑 \n"
