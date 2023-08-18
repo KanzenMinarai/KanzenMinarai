@@ -4,9 +4,9 @@ _hello_@**everyone** $ cat aboutMe.c
 #include <stdio.h>
 
 int main() {
-  printf("Hello!, I'm Kanzen and welcome to my profile on Git-Hub!\n"
-  "I like to learn and talk, chat with me on discord: kanzentaiwa\n"
-  "Check it out the projects that I have on git-hub, you may like it!\n"
+  printf("Hello!, I'm Kanzen and welcome to this profile on Git-Hub!\n"
+  "I like to learn and talk, and if you do just chat with me on discord: kanzentaiwa\n"
+  "Be free to check it out the projects hosted on Git-Hub\n");
   return 0;
 }
 ```
