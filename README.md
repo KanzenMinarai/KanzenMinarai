@@ -1,4 +1,4 @@
-_hello_@**everyone** $ cat aboutMe.c
+_hello_@**everyone** $ cat about.c
 
 ```c
 #include <stdio.h>
